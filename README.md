@@ -9,12 +9,10 @@ La idea es luego de tener la información que querés, configurar un cron con al
 
 Ejemplo
 
-<<<<<<< HEAD
 ``` 
 python bondi-scipt.py -p2664 -b328 
 =======
 ``` python bondi-scipt.py -p2664 -b328 
->>>>>>> fae2c6e58b09bc8e16e7181191f211936bb623d5
 El 328 está a punto de pasar en 23 minutos
 ```
 
