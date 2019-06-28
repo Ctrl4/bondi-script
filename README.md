@@ -14,7 +14,7 @@ Ejemplo
 ``` 
 python bondi-scipt.py -p2664 -b328 
 =======
-``` python bondi-scipt.py -p2664 -b328 
+python bondi-scipt.py -p2664 -b328 
 El 328 está a punto de pasar en 23 minutos
 ```
 
